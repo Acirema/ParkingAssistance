@@ -14,6 +14,10 @@ Development of a project to detect objects near the vehicle and play a frequency
 
 [Engineering Requirements](https://github.com/Acirema/ParkingAssistance/blob/master/Parking%20Assistance.docx)
 
+## Connections Diagram
+
+![Connections_Diagram](/Connections_Diagram.jpg)
+
 
 
 
