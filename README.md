@@ -16,7 +16,7 @@ Development of a project to detect objects near the vehicle and play a frequency
 
 ## Connections Diagram
 
-![Connections_Diagram](/Connections_Diagram.jpg)
+![Connections_Diagram](/Conn_diag.bmp)
 
 
 
