@@ -4,7 +4,7 @@ Development of a project to detect objects near the vehicle and play a frequency
 ## Components
 
 * 01 Arduino Uno Board
-* 02 Ultrasound sensors HC-SR04
+* 01 Ultrasound sensors HC-SR04
 * 01 Buzzer
 * 01 Protoboard
 * 04 Batteries AA
